@@ -1,0 +1,6 @@
+OL a img {display:none; }
+OL a:hover img {display:block; }
+
+a:hover {
+	color: red;
+}
