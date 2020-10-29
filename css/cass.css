@@ -4,3 +4,79 @@ OL a:hover img {display:block; }
 a:hover {
 	color: red;
 }
+
+header{
+	background-color: #0B443D;
+	text-align: center;
+	padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+header h1 {
+	color: white;
+	font-size: 40px;
+	max-width: 100%;
+}
+
+h1, h2, h3, h4, ol {
+	font-family: 'Calligraffitti', cursive;
+}
+
+h2, h3 {
+	font-size: 30px;
+	color: #7D48B1;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+header img {
+	border-radius: 200px;
+	width: 400px;
+	height: 300px;
+	border: 20px solid darkslategrey;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	font-family: 'Lato', sans-serif;
+	padding: 0 20px;
+}
+
+main a {
+	color: green;
+}
+main iframe {
+	margin-left: 120px
+}
+
+body {
+	margin: 0px;
+	font-size: 15px;
+}
+
+h4 {
+	text-align: center;
+	margin: 0;
+	color: #7D48B1;
+	font-size: 20px;
+}
+
+footer {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #0B443D;
+	
+}
+
+footer p {
+	max-width: 800px;
+	margin: 0 auto;
+	color: white;
+}
+
+footer a {
+	color: white;
+}
